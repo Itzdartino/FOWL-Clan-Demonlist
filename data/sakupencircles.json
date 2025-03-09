@@ -1,0 +1,18 @@
+{
+    "id": 76962930,
+    "name": "Sakupen Circles",
+    "author": "Diamond",
+    "creators": ["DrCuber", "endevvor", "GhostVandalf", "korewa", "Renn241", "Mzero", "Muffy450", "Nick24", "Ninedice"],
+    "verifier": "Diamond",
+    "verification": "https://youtu.be/ofG2mJi9kEA",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/aoKkSFVE_ck",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
