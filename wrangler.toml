@@ -1,0 +1,9 @@
+name = "fowl-clan-demonlist"
+type = "javascript"
+compatibility_date = "2025-03-10"
+
+[site]
+bucket = "."
+
+[build]
+command = "npm run build"
