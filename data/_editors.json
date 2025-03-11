@@ -13,5 +13,15 @@
         "role": "admin",
         "name": "Lucidium",
         "link": "https://www.youtube.com/@LucidiumGD"
+    },
+    {
+        "role": "admin",
+        "name": "Padahk",
+        "link": "https://www.youtube.com/@Padahk"
+    },
+    {
+        "role": "dev",
+        "name": "Oculations",
+        "link": "https://www.youtube.com/@Oculations"
     }
 ]
