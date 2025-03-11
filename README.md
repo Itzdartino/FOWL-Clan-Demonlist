@@ -19,6 +19,7 @@
 - TriggeredGMD
 - Lucidium
 - Padahk
+- JaydenvdH
 
 ## Developers:
 
