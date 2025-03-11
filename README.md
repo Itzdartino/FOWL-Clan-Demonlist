@@ -18,4 +18,8 @@
 
 - TriggeredGMD
 - Lucidium
-- JaydenvdH
+- Padahk
+
+## Developers:
+
+- Oculations
