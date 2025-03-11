@@ -1,7 +1,5 @@
 name = "fowl-clan-demonlist"
 compatibility_date = "2025-03-10"
 
-main = "index.js"
-
 [site]
 bucket = "./public"
