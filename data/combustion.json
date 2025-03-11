@@ -3,16 +3,10 @@
     "name": "COMBUSTION",
     "author": "Cersia",
     "creators": ["Cersia", "Slithium"],
-    "verifier": "Slithium",
-    "verification": "https://youtu.be/3cTR4XUcA28",
+    "verifier": "Hqmy",
+    "verification": "https://youtu.be/BAeYbGLZ5Bo",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Hqmy",
-            "link": "https://youtu.be/BAeYbGLZ5Bo",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }

@@ -3,16 +3,10 @@
     "name": "Saul Goodman",
     "author": "Renn241",
     "creators": ["joojmiguel", "NukeIIX", "DreamTide", "Loltad", "MercuryDT", "GhostVandalf", "QuacDuc", "Renn241"],
-    "verifier": "Jori",
-    "verification": "https://youtu.be/hjs5PjUaw9k",
+    "verifier": "Hqmy",
+    "verification": "https://youtu.be/fywtWKIrBpo",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Hqmy",
-            "link": "https://youtu.be/fywtWKIrBpo",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }

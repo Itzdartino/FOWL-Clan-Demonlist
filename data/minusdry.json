@@ -3,16 +3,10 @@
     "name": "MINUSdry",
     "author": "CDMusic",
     "creators": ["Sevant", "Varium", "CDMusic", "korewa", "Renn241", "Mzero", "Muffy450", "Nick24", "Ninedice"],
-    "verifier": "Varium",
-    "verification": "https://youtu.be/YvA8ehhzz0Q",
+    "verifier": "Hqmy",
+    "verification": "https://youtu.be/MR7wowK2OLQ",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Hqmy",
-            "link": "https://youtu.be/MR7wowK2OLQ",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
