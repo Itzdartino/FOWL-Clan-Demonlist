@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "xaern",
+            "link": "https://www.youtube.com/watch?v=bVtIYYbHIHA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=xhu5DHnjBLU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
