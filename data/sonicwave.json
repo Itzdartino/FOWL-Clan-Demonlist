@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/lJx0B-aVWOM",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=aDgX4LtnqCw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "NotJellyGD",
+            "link": "https://www.youtube.com/watch?v=vM3cm01fnEI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
