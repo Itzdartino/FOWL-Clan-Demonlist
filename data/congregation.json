@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "JacoWave",
+            "link": "https://www.youtube.com/watch?v=Tkf74JJBaWw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
