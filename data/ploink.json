@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "timmyblox",
+            "link": "https://www.youtube.com/watch?v=XlB5tz3gZ0w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
