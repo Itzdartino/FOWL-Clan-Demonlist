@@ -24,5 +24,11 @@
     "verification": "https://youtu.be/ftXcWb2pyrE?si=tT0eHniQm_6Z1_gr",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/Up0k2geSaFE",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
