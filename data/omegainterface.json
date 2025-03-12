@@ -7,6 +7,30 @@
     "verification": "https://www.youtube.com/watch?v=1_KLWSdzryo",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": [
+    "records": [        
+        {
+            "user": "mironator",
+            "link": "https://www.youtube.com/watch?v=ZkqStNZ9qwY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "yoyortfloor",
+            "link": "https://www.youtube.com/watch?v=5tYxv5si4nM",
+            "percent": 100,
+            "hz": 700
+        },
+        {
+            "user": "funnypoop1",
+            "link": "https://www.youtube.com/watch?v=GewXJ8tgCs8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Boxy",
+            "link": "https://www.youtube.com/watch?v=1XhZ9rtX1K8",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
