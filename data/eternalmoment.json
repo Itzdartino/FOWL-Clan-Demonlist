@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "086400",
     "records": [
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/Thh18ms7Eyk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
