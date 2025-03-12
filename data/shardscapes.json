@@ -7,6 +7,24 @@
     "verification": "https://www.youtube.com/watch?v=Dg0ukMTBfyY",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": [
+    "records": [        
+        {
+            "user": "Zlilbro22",
+            "link": "https://www.youtube.com/watch?v=J6Hw37P11Cw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "YoshiDT",
+            "link": "https://youtu.be/UV_Nh6qDj4I?si=oRNDxjzGpiW9HB61",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/v_y6Ly7bFyo?si=NqyXsnFVVZEhroOn",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
