@@ -1,0 +1,18 @@
+{
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "VTB",
+    "verification": "https://youtu.be/3Bx3GtNRupg?si=TkLjnwJZEpmMxBFM",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/esYJTxLPx3g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
