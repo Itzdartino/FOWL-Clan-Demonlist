@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "060521",
     "records": [
+        {
+            "user": "ItsSkinn7Y",
+            "link": "https://www.youtube.com/watch?v=moNoMeDA_3c",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
