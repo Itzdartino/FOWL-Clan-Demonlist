@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "235236",
     "records": [
+        {
+            "user": "Aless50",
+            "link": "https://www.youtube.com/watch?v=xm1YYhKahFU",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
