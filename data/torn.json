@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Dartino",
+            "link": "https://youtu.be/WxEnZZxN-PU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
