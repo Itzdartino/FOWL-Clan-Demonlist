@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
+        {
+            "user": "rogah",
+            "link": "https://youtu.be/GuotZeSYmow",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
