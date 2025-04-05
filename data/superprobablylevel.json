@@ -3,16 +3,10 @@
     "name": "super probably level",
     "author": "Alkali",
     "creators": [],
-    "verifier": "SoCalamity",
+    "verifier": "Camicorder",
     "verification": "https://youtu.be/nNMaAF0ErMs",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Camicorder",
-            "link": "https://youtu.be/nNMaAF0ErMs",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
