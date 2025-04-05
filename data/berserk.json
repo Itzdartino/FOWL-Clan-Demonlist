@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Camicorder",
+            "link": "https://www.youtube.com/watch?v=yEx-s8-7EKE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

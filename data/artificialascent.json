@@ -37,6 +37,12 @@
             "link": "https://youtu.be/KRrueDAbJis",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Camicorder",
+            "link": "https://www.youtube.com/watch?v=1aD18VWHhrI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

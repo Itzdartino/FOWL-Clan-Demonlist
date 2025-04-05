@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=jV7sOx8LuJY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Camicorder",
+            "link": "https://www.youtube.com/watch?v=d6kr98kGHOU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
