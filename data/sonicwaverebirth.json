@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=DYBuI_yEOj4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/f8MXnTpShDU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
