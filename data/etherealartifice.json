@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=gokMIBOgEDA",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Finlay",
+            "link": "https://www.youtube.com/watch?v=o_6AMChETRM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
