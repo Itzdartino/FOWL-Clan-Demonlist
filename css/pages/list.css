@@ -94,9 +94,6 @@
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;
 }
-.page-list .meta-container .welcometolist a:hover{
-    padding-inline: 2rem
-}
 .page-list .meta {
     display: flex;
     flex-direction: column;

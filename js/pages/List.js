@@ -88,9 +88,6 @@ export default {
                     <div class="welcometolist">
                         <h3>Welcome to the FOWL Clan Demonlist!</h3>
                         </p>
-                        <p>
-                            This is a list of the top 200 levels that FOWL Clan members have beaten.
-                        </p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
