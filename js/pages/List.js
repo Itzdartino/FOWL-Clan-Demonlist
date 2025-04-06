@@ -102,8 +102,7 @@ export default {
                     </p>
                     <p>
                         This is a list of the top 200 levels that FOWL Clan members have beaten.
-                    </p>
-                    <p>
+                    </div>
                     <h3>Submission Requirements</h3>
                     </p>
                     <p>
