@@ -88,13 +88,6 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
-                        <p>
-                        <h3>Welcome to the FOWL Clan Demonlist!</h3>
-                        <p>
-                            This is a list of the top 200 levels that FOWL Clan members have beaten.
-                        </p>
-                        <p>
-                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
@@ -105,18 +98,19 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Welcome to the FOWL Clan Demonlist!</h3>
+                    <p>
                     <h3>Submission Requirements</h3>
-                    <p>
-                        Use the #fowl-demonlist-record-submitter channel on the FOWL Clan Central discord server to submit your records.
+                        Submit your records on the #fowl-demonlist-record-submitter channel in the FOWL Clan Central discord server.
                     </p>
                     <p>
-                        If the record is accepted on AREDL or Pointercrate, then the records will get accepted immedeately.
+                        If your record has been accepted on AREDL or Pointercrate, then it will get accepted immedeately.
                     </p>
                     <p>
-                        Clicks/taps have to be audible throughout the entire completion.
+                        Clicks/taps have to be audible throughout the whole completion.
                     </p>
                     <p>
-                        Raw footage is required for the completion of any level in the top 100.
+                        Raw footage is required for completions of any level in the top 100.
                     </p>
                     <p>
                         You can submit legacy levels, but you will not get points for it.
