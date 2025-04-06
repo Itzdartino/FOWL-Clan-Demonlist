@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Zenthic",
+            "link": "https://youtu.be/0jIGy-sgYjk",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
