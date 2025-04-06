@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=4j5zUWe1tmY",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Verminity",
+            "link": "https://youtu.be/520YLVrom78?si=cQ5XfQPNLv9loHLI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
