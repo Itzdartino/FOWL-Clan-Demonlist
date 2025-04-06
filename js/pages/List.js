@@ -92,7 +92,8 @@ export default {
                         </p>
                         <p>
                             This is a list of the top 200 levels that FOWL Clan members have beaten.
-                        </div>
+                        </p>
+                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
