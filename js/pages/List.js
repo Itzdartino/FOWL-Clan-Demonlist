@@ -88,6 +88,7 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
+                    <div class="welcome"
                         <h3>Welcome to the FOWL Clan Demonlist!</h3>
                         </p>
                         <p>
