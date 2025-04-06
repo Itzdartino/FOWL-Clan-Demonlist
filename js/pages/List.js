@@ -99,8 +99,14 @@ export default {
                         </ol>
                     </template>
                     <h3>Welcome to the FOWL Clan Demonlist!</h3>
+                    </p>
+                    <p>
+                        This is a list of the top 200 levels that FOWL Clan members have beaten.
+                    </p>
                     <p>
                     <h3>Submission Requirements</h3>
+                    </p>
+                    <p>
                         Submit your records on the #fowl-demonlist-record-submitter channel in the FOWL Clan Central discord server.
                     </p>
                     <p>
