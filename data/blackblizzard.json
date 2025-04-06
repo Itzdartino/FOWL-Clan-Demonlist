@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=L2tTxZtgjHg&t=220s",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Boxy",
+            "link": "https://www.youtube.com/watch?v=4j5zUWe1tmY",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
