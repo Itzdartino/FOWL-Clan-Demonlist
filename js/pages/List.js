@@ -88,6 +88,13 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
+                        <p>
+                        <h3>Welcome to the FOWL Clan Demonlist!</h3>
+                        <p>
+                            This is a list of the top 200 levels that FOWL Clan members have beaten.
+                        </p>
+                        <p>
+                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
@@ -100,28 +107,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Use the #fowl-demonlist-record-submitter channel on the FOWL Clan Central discord server to submit your records.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        If the record is accepted on AREDL or Pointercrate, then the records will get accepted immedeately.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Clicks/taps have to be audible throughout the entire completion.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Raw footage is required for the completion of any level in the top 100.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        You can submit legacy levels, but you will not get points for it.
                     </p>
                 </div>
             </div>
