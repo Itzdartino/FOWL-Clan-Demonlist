@@ -88,11 +88,11 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
-                    <h3>Welcome to the FOWL Clan Demonlist!</h3>
-                    </p>
-                    <p>
-                        This is a list of the top 200 levels that FOWL Clan members have beaten.
-                    </div>
+                        <h3>Welcome to the FOWL Clan Demonlist!</h3>
+                        </p>
+                        <p>
+                            This is a list of the top 200 levels that FOWL Clan members have beaten.
+                        </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
