@@ -95,7 +95,7 @@
     text-decoration: underline;
 }
 .page-list .meta-container .welcometolist a:hover{
-    padding-block: 2rem
+    padding-inline: 2rem
 }
 .page-list .meta {
     display: flex;
