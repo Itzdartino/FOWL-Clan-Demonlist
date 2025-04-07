@@ -2,11 +2,10 @@
     font-family: Bebas Neue Bold;
     src: url(../css/font/BebasNeue-Bold.ttf);
   }
-
-  div {
+div {
     font-family: Bebas Neue Regular;
-    src: url(../css/font/BebasNeue-Regular.ttf);
-  }
+    src: url(../css/font/BebasNeue-Regular.otf);
+}
 h1,
 .type-h1,
 .type-headline-lg {
