@@ -18,7 +18,7 @@ jobs:
         with:
           repository: All-Rated-Extreme-Demon-List/AREDL
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: ../data
+          path: ../FOWL-Clan-Demonlist/data
 
       - name: Sync Data
         run: |
