@@ -162,10 +162,10 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Bebas Neue Bold", sans-serif;
+    font-family: "Bebas Neue Regular", sans-serif;
     font-size: 25px;
     line-height: 20px;
-    font-weight: 350;
+    font-weight: 700;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg::before {
