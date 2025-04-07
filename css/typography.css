@@ -214,9 +214,10 @@ input[type="number"],
 p,
 .type-body {
     font-family: "Bebas Neue", sans-serif;
-    font-size: 19px;
+    font-size: 24px;
     line-height: 28px;
     font-weight: 350;
+    letter-spacing: 1px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 p::before,
