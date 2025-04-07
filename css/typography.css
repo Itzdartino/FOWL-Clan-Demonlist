@@ -1,11 +1,16 @@
 @font-face {
-    font-family: Bebas Neue;
+    font-family: Bebas Neue Bold;
+    src: url(../css/font/BebasNeue-Bold.ttf);
+  }
+
+  div {
+    font-family: Bebas Neue Regular;
     src: url(../css/font/BebasNeue-Regular.ttf);
   }
 h1,
 .type-h1,
 .type-headline-lg {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Bold", sans-serif;
     font-size: 65px;
     line-height: 52px;
     font-weight: 500;
@@ -30,7 +35,7 @@ h1::after,
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Bold", sans-serif;
     font-size: 38px;
     line-height: 40px;
     font-weight: 500;
@@ -55,7 +60,7 @@ h2::after,
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Bold", sans-serif;
     font-size: 26px;
     line-height: 28px;
     font-weight: 500;
@@ -79,7 +84,7 @@ h3::after,
 h4,
 .type-h4,
 .type-title-lg {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Bold", sans-serif;
     font-size: 26px;
     line-height: 28px;
     font-weight: 500;
@@ -104,7 +109,7 @@ h4::after,
 h5,
 .type-h5,
 .type-title-md {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Bold", sans-serif;
     font-size: 23px;
     line-height: 26px;
     font-weight: 500;
@@ -130,7 +135,7 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Bold", sans-serif;
     font-size: 19px;
     line-height: 24px;
     font-weight: 500;
@@ -158,7 +163,7 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Regular", sans-serif;
     font-size: 18px;
     line-height: 20px;
     font-weight: 350;
@@ -176,7 +181,7 @@ input[type="number"],
 }
 
 .type-label-md {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Regular", sans-serif;
     font-size: 15px;
     line-height: 18px;
     font-weight: 350;
@@ -194,7 +199,7 @@ input[type="number"],
 }
 
 .type-label-sm {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Regular", sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
     font-weight: 350;
@@ -213,10 +218,10 @@ input[type="number"],
 
 p,
 .type-body {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas Neue Regular", sans-serif;
     font-size: 22px;
     line-height: 28px;
-    font-weight: 100;
+    font-weight: 350;
     letter-spacing: 0px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
