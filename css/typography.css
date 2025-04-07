@@ -163,7 +163,7 @@ input[type="text"],
 input[type="number"],
 .type-label-lg {
     font-family: "Bebas Neue Regular", sans-serif;
-    font-size: 18px;
+    font-size: 25px;
     line-height: 20px;
     font-weight: 350;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -181,7 +181,7 @@ input[type="number"],
 
 .type-label-md {
     font-family: "Bebas Neue Regular", sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     line-height: 18px;
     font-weight: 350;
     -webkit-font-smoothing: subpixel-antialiased;
