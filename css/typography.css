@@ -165,7 +165,7 @@ input[type="number"],
     font-family: "Bebas Neue Regular", sans-serif;
     font-size: 25px;
     line-height: 20px;
-    font-weight: 700;
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg::before {
