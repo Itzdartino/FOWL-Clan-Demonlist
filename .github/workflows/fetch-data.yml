@@ -22,7 +22,7 @@ jobs:
 
       - name: Sync Data
         run: |
-          cp -r ../data/_list.json/* ../aredldata/
+          cp -r ../AREDL/data/_list.json/* ../FOWL-Clan-Demonlist/aredldata/
 
       - name: Commit and push the changes
         run: |
