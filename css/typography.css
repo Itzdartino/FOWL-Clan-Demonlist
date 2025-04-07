@@ -1,7 +1,11 @@
+@font-face {
+    font-family: Bebas Neue;
+    src: url(../css/font/BebasNeue-Regular.ttf);
+  }
 h1,
 .type-h1,
 .type-headline-lg {
-    font-family: "Bebas Neue Regular", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     font-size: 51.4285714286px;
     line-height: 52px;
     font-weight: 700;
