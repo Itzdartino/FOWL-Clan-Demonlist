@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=1LC0nZf-Ppk",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "NotJellyGD",
+            "link": "https://youtu.be/zA1sp-0kxPE?si=RTgII43DQKFzOrCF",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
