@@ -2,7 +2,7 @@
     font-family: Bebas Neue Bold;
     src: url(../css/font/BebasNeue-Bold.ttf);
   }
-div {
+@font-face {
     font-family: Bebas Neue Regular;
     src: url(../css/font/BebasNeue-Regular.otf);
 }
