@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Runi",
+            "link": "https://youtu.be/VIyKGlt1098?si=2Qo_3-AwsDclo_Ts",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

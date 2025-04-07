@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/6cRr9-aqnQ4?si=uKXiHNloIBcM80co",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Runi",
+            "link": "https://youtu.be/PFKsbMXaYxI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

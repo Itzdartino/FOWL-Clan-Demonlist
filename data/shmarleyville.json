@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/NAfdan7GOHM?si=TJo_w66D0yD2qOdG",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Runi",
+            "link": "https://www.youtube.com/watch?v=wD0Z35aXLk0",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
