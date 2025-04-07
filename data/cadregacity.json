@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Tweaking",
+            "link": "https://youtu.be/xCFuHxHPAyE?si=uH3-XGXsHTp-szS6",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

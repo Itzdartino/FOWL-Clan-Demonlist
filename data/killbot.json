@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=xfzApwfaQBI",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Tweaking",
+            "link": "https://youtu.be/IWNAbAggsWU?si=3xhIh6ATExwH1hSa",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

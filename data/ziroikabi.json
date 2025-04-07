@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "150418",
     "records": [
+        {
+            "user": "Tweaking",
+            "link": "https://youtu.be/4iNjN9nXLmE?si=z2Y88oMNKhCnxpNV",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

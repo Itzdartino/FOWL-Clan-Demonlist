@@ -15,5 +15,11 @@
     "verification": "https://youtu.be/tiQoNUpg_vE?si=odIBo1es7k2T-3of",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Tweaking",
+            "link": "https://www.youtube.com/watch?v=3kvPaomiiQo",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
