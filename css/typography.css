@@ -221,7 +221,7 @@ p,
     font-size: 22px;
     line-height: 28px;
     font-weight: 350;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.5px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 p::before,
