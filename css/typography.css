@@ -1,19 +1,11 @@
-@font-face {
-    font-family: Bebas Neue Bold;
-    src: url(../css/font/BebasNeue-Bold.ttf);
-  }
-@font-face {
-    font-family: Bebas Neue Regular;
-    src: url(../css/font/BebasNeue-Regular.otf);
-}
 h1,
 .type-h1,
 .type-headline-lg {
-    font-family: "Bebas Neue Bold", sans-serif;
-    font-size: 60px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 51.4285714286px;
     line-height: 52px;
-    font-weight: 500;
-    letter-spacing: 0px;
+    font-weight: 700;
+    letter-spacing: -2px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h1::before,
@@ -34,11 +26,11 @@ h1::after,
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: "Bebas Neue Bold", sans-serif;
-    font-size: 38px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 34.2857142857px;
     line-height: 40px;
-    font-weight: 500;
-    letter-spacing: 0px;
+    font-weight: 700;
+    letter-spacing: -1px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h2::before,
@@ -59,10 +51,10 @@ h2::after,
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: "Bebas Neue Bold", sans-serif;
-    font-size: 28px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 22.8571428571px;
     line-height: 28px;
-    font-weight: 500;
+    font-weight: 700;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h3::before,
@@ -83,10 +75,10 @@ h3::after,
 h4,
 .type-h4,
 .type-title-lg {
-    font-family: "Bebas Neue Bold", sans-serif;
-    font-size: 26px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 22.8571428571px;
     line-height: 28px;
-    font-weight: 500;
+    font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -108,10 +100,10 @@ h4::after,
 h5,
 .type-h5,
 .type-title-md {
-    font-family: "Bebas Neue Bold", sans-serif;
-    font-size: 23px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 20px;
     line-height: 26px;
-    font-weight: 500;
+    font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -134,10 +126,10 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: "Bebas Neue Bold", sans-serif;
-    font-size: 19px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
     line-height: 24px;
-    font-weight: 500;
+    font-weight: 700;
     text-transform: uppercase;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -162,11 +154,10 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Bebas Neue Regular", sans-serif;
-    font-size: 26px;
-    line-height: 25px;
-    font-weight: 600;
-    letter-spacing: 1px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
+    line-height: 20px;
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-lg::before {
@@ -181,10 +172,10 @@ input[type="number"],
 }
 
 .type-label-md {
-    font-family: "Bebas Neue Regular", sans-serif;
-    font-size: 15px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 14.2857142857px;
     line-height: 18px;
-    font-weight: 350;
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-md::before {
@@ -199,10 +190,10 @@ input[type="number"],
 }
 
 .type-label-sm {
-    font-family: "Bebas Neue Regular", sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
-    font-weight: 350;
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .type-label-sm::before {
@@ -218,11 +209,10 @@ input[type="number"],
 
 p,
 .type-body {
-    font-family: "Bebas Neue Regular", sans-serif;
-    font-size: 22px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
     line-height: 28px;
-    font-weight: 300;
-    letter-spacing: 0.5px;
+    font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 p::before,
