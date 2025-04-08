@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/02fV2VGoLqY?si=koPSGV3s9jKGAzxJ",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Dornoc429",
+            "link": "https://www.youtube.com/watch?v=dg0mQfoqIRM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

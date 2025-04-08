@@ -21,5 +21,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Dornoc429",
+            "link": "https://www.youtube.com/watch?v=bCEiqpTglpc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
