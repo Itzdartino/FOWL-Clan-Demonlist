@@ -10,24 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the repository
+      - name: Checkout FOWL-Clan-Demonlist
         uses: actions/checkout@v2
+        with:
+          path: FOWL
 
-      - name: Checkout another repository
+      - name: Checkout AREDL
         uses: actions/checkout@v2
         with:
           repository: All-Rated-Extreme-Demon-List/AREDL
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: ../FOWL-Clan-Demonlist/data
+          path: AREDL
 
       - name: Sync Data
         run: |
-          cp -r ../AREDL/data/_list.json/* ../FOWL-Clan-Demonlist/aredldata/
+          cp AREDL/data/_list.json FOWL/aredldata/
 
       - name: Commit and push the changes
+        working-directory: FOWL
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Sync data from another repository"
+          git commit -m "Sync data from AREDL"
           git push
