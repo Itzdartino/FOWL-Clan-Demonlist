@@ -39,6 +39,7 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
+                    <h3>This places {{ level.aredlplacement }} on the AREDL.</h3>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
@@ -58,7 +59,7 @@ export default {
                     <h2>Records</h2>
                     <p v-if="selected + 1 <=100"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else-if="selected +1 <= 200"><strong>100%</strong> or better to qualify</p>
-                    <p v-else>This level does not accept new records.</p>
+                    <p v-else>You can still submit records for this level, but they won't earn you any points.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
