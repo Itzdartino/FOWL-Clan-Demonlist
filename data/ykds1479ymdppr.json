@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=D6FlSoB4dCo",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Rando",
+            "link": "https://www.youtube.com/watch?v=nGpfSeL7iK4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
