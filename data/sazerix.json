@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "CraZDemonX",
+            "link": "https://www.youtube.com/watch?v=eOm-dUbqdT4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

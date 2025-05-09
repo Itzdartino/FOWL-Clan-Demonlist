@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-            {
-                "user": "JacoWaco",
-                "link": "https://www.youtube.com/watch?v=8BoUcrOfXGw",
-                "percent": 100,
-                "hz": 240
-            }
-        ]
-    }
+        {
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=8BoUcrOfXGw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CraZDemonX",
+            "link": "https://www.youtube.com/watch?v=lG8_DIcQ0Tg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
