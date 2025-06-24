@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=QVyCyC8TmgI",
             "percent": 100,
             "hz": 1440
+        },
+        {
+            "user": "Cynoq",
+            "link": "https://www.youtube.com/watch?v=SZapFvDKBJo",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
