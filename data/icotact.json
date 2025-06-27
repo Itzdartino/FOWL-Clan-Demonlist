@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/rN9BByl1hKE?si=ReB0l-uT-dGGwUlR",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Dartino",
+            "link": "https://www.youtube.com/watch?v=vtLe7i3k4uU",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

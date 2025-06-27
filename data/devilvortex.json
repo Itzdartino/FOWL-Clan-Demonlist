@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/0Lh9Avac-5c",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "rogah",
+            "link": "https://www.youtube.com/watch?v=XnPz3h2ef48",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
