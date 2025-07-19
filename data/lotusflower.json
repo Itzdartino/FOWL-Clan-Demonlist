@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "180211",
     "records": [
+        {
+            "user": "Ka1b3ast",
+            "link": "https://youtu.be/W3b1aT1saU4?si=6rAedmOgpB5neCw5",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

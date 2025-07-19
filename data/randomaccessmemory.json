@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Ka1b3ast",
+            "link": "https://youtu.be/4jBMC88Rc8Q?si=CNLoCDRA7rYilHwZ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
