@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "IcyTerra",
+            "link": "https://youtu.be/jynpziB0mY0?si=vzaDE5VhzLXtlLzu",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }

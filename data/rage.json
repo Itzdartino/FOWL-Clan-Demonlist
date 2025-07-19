@@ -3,16 +3,17 @@
     "name": "Rage",
     "aredl": "#270",
     "author": "nSwish",
-    "creators": ["StarkytheSalad",
-"Yoonsrdynamix",
-"Morin",
-"RealVet",
-"Spectral",
-"hawkyre"],
+    "creators": ["StarkytheSalad","Yoonsrdynamix","Morin","RealVet","Spectral","hawkyre"],
     "verifier": "funnypoop1",
     "verification": "https://youtu.be/AcYOzCDR9CA?si=nDRWZfrobkNtfGvP",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "IcyTerra",
+            "link": "https://youtu.be/PDab3XwLdt0?si=2bikESYwCfYSLkBL",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
