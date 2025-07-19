@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=kQLGecM8sHc",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Tweaking",
+            "link": "https://youtu.be/i0fSQ_Y7U_0?si=B5IeYAV5WaJNGe_g",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
