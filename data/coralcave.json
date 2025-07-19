@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "BastianAK",
+            "link": "https://youtu.be/hKf2oo2nN4g?si=pYVC1yfZ8Rt-BAKZ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

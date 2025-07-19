@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=5JYOc8GN6oI",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "BastianAK",
+            "link": "https://youtu.be/l6SCYTSmvEM?si=bIo5jgaxrdFn7gdC",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
