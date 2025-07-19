@@ -3,30 +3,17 @@
     "name": "Void Wave",
     "aredl": "#428",
     "author": "CherryBT",
-    "creators": [
-        "Crouley",
-        "Enzore",
-        "Itami",
-        "Omega",
-        "Kiba",
-        "Acnologia",
-        "Apollone",
-        "Nahuel2998",
-        "00Zero",
-        "Gr",
-        "Buragoz",
-        "SirZaiss",
-        "Desumari",
-        "Lilium11",
-        "Convie",
-        "Konsi",
-        "voltex",
-        "MrClyde"],
-    
+    "creators": ["Crouley","Enzore","Itami","Omega","Kiba","Acnologia","Apollone","Nahuel2998","00Zero","Gr","Buragoz","SirZaiss","Desumari","Lilium11","Convie","Konsi","voltex", "MrClyde"],
     "verifier": "MrBeanScout",
     "verification": "https://www.youtube.com/watch?v=-cu0uK_bjxc",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/JrRTEd7WKHE?si=Z2Quyfe-4vR63b8R",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

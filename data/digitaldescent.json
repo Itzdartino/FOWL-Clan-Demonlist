@@ -3,24 +3,7 @@
     "name": "Digital Descent",
     "aredl": "#342",
     "author": "ViPriN",
-    "creators": ["Hinds",
-"Loogiah",
-"Vlacc",
-"Samifying",
-"Kips",
-"G4lvatron",
-"KrmaL",
-"AbstractDark",
-"Rustam",
-"TheDevon",
-"Etzer",
-"Serponge",
-"Manix648",
-"Codex",
-"LazerBlitz",
-"Terron",
-"ViPriN",
-"nasgubb"],
+    "creators": ["Hinds","Loogiah","Vlacc","Samifying","Kips","G4lvatron","KrmaL","AbstractDark","Rustam","TheDevon","Etzer","Serponge","Manix648","Codex","LazerBlitz","Terron","ViPriN","nasgubb"],
     "verifier": "JacoWaco",
     "verification": "https://youtu.be/ftXcWb2pyrE?si=tT0eHniQm_6Z1_gr",
     "percentToQualify": 100,
@@ -52,6 +35,12 @@
         {
             "user": "Tweaking",
             "link": "https://youtu.be/Rf3ajiNdyWQ?si=RVrSCQsU7R7r7U5P",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/53K_-hBnmWA?si=c52om7_2F0ZQg8W3&t=178",
             "percent": 100,
             "hz": 240
         }

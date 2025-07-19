@@ -3,23 +3,7 @@
     "name": "Cybernetic Crescent",
     "aredl": "#248",
     "author": "ViPriN",
-    "creators": ["Hinds",
-    "Enzore",
-    "Vlacc",
-    "Floppy",
-    "Samifying",
-    "G4lvatron",
-    "Rustam",
-    "TheDevon",
-    "FirsGD",
-    "Serponge",
-    "FerdeFunky",
-    "Codex",
-    "zalspr",
-    "Shocksidian",
-    "Terron",
-    "ViPriN",
-    "nasgubb"],
+    "creators": ["Hinds","Enzore","Vlacc","Floppy","Samifying","G4lvatron","Rustam","TheDevon","FirsGD","Serponge","FerdeFunky","Codex","zalspr","Shocksidian","Terron","ViPriN","nasgubb"],
     "verifier": "Ka1b3ast",
     "verification": "https://youtu.be/yFJJ3-qo5VE?si=fZNT4JJGF-CgArpy",
     "percentToQualify": 100,
@@ -39,6 +23,12 @@
         {
             "user": "Tweaking",
             "link": "https://youtu.be/LjQXLGNG2dg?si=07pSdzuP9bRBCuXb",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/53K_-hBnmWA?si=rO2b-GoHiSkdPtT_&t=348",
             "percent": 100,
             "hz": 240
         }

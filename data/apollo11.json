@@ -8,5 +8,12 @@
     "verification": "https://youtu.be/q_PmPUfhwnw",
     "percentToQualify": "100",
     "password": "789123",
-    "records": []
+    "records": [
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/LrcO2knrKQE?si=Zpf5h7ct2rZm77Ce",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

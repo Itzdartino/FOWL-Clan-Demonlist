@@ -16,7 +16,13 @@
         },
         {
             "user": "Dornoc429",
-            "link": "https://youtu.be/w9YITFmPhyk?si=85_n1s7GGMESA28p",
+            "link": "https://youtu.be/w9YITFmPhyk?si=85_n1s7GGMESA28p{",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/lQQN7RPmpms?si=OpDfZ8b42YIdUpPm",
             "percent": 100,
             "hz": 240
         }
