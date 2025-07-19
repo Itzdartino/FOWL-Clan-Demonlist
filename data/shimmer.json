@@ -1,6 +1,6 @@
 {
     "id": 94156085,
-    "name": "shimmer",
+    "name": "shimmer (amplitron)",
     "aredl": "#110",
     "author": "amplitron",
     "creators": [],
@@ -18,12 +18,6 @@
         {
             "user": "hibachidefect",
             "link": "https://www.youtube.com/watch?v=FDVC0ErdRN0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Rando",
-            "link": "https://www.youtube.com/watch?v=6StmsPMgOAE",
             "percent": 100,
             "hz": 240
         }

@@ -9,11 +9,5 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Rando",
-            "link": "https://youtu.be/lwb4BQLc_Yc?si=mNODeZiZMYeTKR9Y",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
