@@ -8,5 +8,11 @@
     "verification": "https://youtu.be/RSjaS3bDe7o",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/gdrQWHIsjI8?si=D4zW3EHwrSY1VNOl",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

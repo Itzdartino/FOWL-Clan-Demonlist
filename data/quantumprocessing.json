@@ -3,11 +3,7 @@
     "name": "Quantum Processing",
     "aredl": "#389",
     "author": "Riot",
-    "creators": ["Hinds",
-"Riot",
-"RobTop",
-"Sil3nce",
-"Zobros"],
+    "creators": ["Hinds","Riot","RobTop","Sil3nce","Zobros"],
     "verifier": "Stormokopter",
     "verification": "https://youtu.be/nw9oWmk95hk?si=sjpuwYz8PCcZ_3KD",
     "percentToQualify": "100",
@@ -40,6 +36,12 @@
         {
             "user": "BastianAK",
             "link": "https://youtu.be/EeBMdW27BMQ?si=IBhP4fD0mAtjNFva",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/KEnHFNiTHTo?si=gZBomK_FP-RcsGcX",
             "percent": 100,
             "hz": 240
         }

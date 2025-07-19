@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/2mjL8gaIyTY?si=0DsKrLXla6vPmrhE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
