@@ -3,28 +3,7 @@
     "name": "Yatagarasu",
     "aredl": "#268",
     "author": "TrusTa",
-    "creators": ["Hinds",
-"Loogiah",
-"Michigun",
-"Aeidux",
-"Csx42gaming",
-"Luneth",
-"Riot",
-"lmAnubis",
-"weoweoteo",
-"AbstractDark",
-"Jeyzor",
-"xcy7",
-"Evasium",
-"WOOGI1411",
-"Giron",
-"Findexi",
-"Funnygame",
-"Zelda",
-"Anthrax",
-"Vermillion",
-"Rek3dge",
-"ViPriN"],
+    "creators": ["Hinds","Loogiah","Michigun","Aeidux","Csx42gaming","Luneth","Riot","lmAnubis","weoweoteo","AbstractDark","Jeyzor","xcy7","Evasium","WOOGI1411","Giron","Findexi","Funnygame","Zelda","Anthrax","Vermillion","Rek3dge","ViPriN"],
     "verifier": "hibachidefect",
     "verification": "https://youtu.be/Z4qUp7FaPqA?si=t3epkrfZbPBXpbUU",
     "percentToQualify": "100",
@@ -34,6 +13,12 @@
             "link": "https://youtu.be/aUimcDrIUu8?si=TJ-Y-P8KWiiIH1ja",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "JacoWaco",
+            "link": "https://youtu.be/iv8YlLQZ0-k?si=mF0ZZBEGf7yVooOe",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
