@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "funnypoop1",
+            "link": "https://youtu.be/BiPOrzdEjUU?si=JvcdP4B8O-ad9Rkp",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
