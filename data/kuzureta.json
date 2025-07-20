@@ -3,30 +3,17 @@
     "name": "Kuzureta",
     "aredl": "#271",
     "author": "Teno",
-    "creators": ["Zetalock",
-"ARWooly",
-"Kyhros",
-"cxli",
-"Cybertron",
-"River",
-"DiamondSkull",
-"DrCuber",
-"SrKiwi",
-"Genoxide",
-"GhostVandalf",
-"Mystic",
-"El3ctr0",
-"Flamongo",
-"RealVet",
-"Renn241",
-"nicor77",
-"zGod",
-"augi",
-"Teno"],
+    "creators": ["Zetalock","ARWooly","Kyhros","cxli","Cybertron","River","DiamondSkull","DrCuber","SrKiwi","Genoxide","GhostVandalf","Mystic","El3ctr0","Flamongo","RealVet","Renn241","nicor77","zGod","augi","Teno"],
     "verifier": "yoyortfloor",
     "verification": "https://youtu.be/nTCnOv3cgYc?si=iAuE2DlCyvxcF_O3",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "CraZDemonX",
+            "link": "https://youtu.be/UOVsflogELM?si=kHmqVOYchnHYqMfC",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

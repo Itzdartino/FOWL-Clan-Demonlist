@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "456454",
     "records": [
+        {
+            "user": "CraZDemonX",
+            "link": "https://youtu.be/-r193SlM7nw?si=fsMaWZn5RQ-iyuMg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

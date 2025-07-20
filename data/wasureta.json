@@ -3,16 +3,7 @@
     "name": "Wasureta",
     "aredl": "#244",
     "author": "Helpegasus",
-    "creators": ["Helpegasus",
-    "Isane",
-    "LimeTime313",
-    "XLSpiral",
-    "BelonziK",
-    "El3ctr0",
-    "[REDACTED]",
-    "Deadlox",
-    "augi",
-    "Splash"],
+    "creators": ["Helpegasus","Isane","LimeTime313","XLSpiral","BelonziK","El3ctr0","[REDACTED]","Deadlox","augi","Splash"],
     "verifier": "funnypoop1",
     "verification": "https://youtu.be/QCV9zj_oJkc?si=y9lxEM45rII9W76h",
     "percentToQualify": 100,
@@ -32,6 +23,12 @@
         {
             "user": "BastianAK",
             "link": "https://youtu.be/cYofdCG5VY0?si=xbQwsnNfW36XCrp1",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CraZDemonX",
+            "link": "https://youtu.be/XsTUZTV9ajo?si=6aQoAt5tVswHWaLo",
             "percent": 100,
             "hz": 240
         }

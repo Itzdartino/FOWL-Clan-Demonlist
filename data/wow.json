@@ -3,17 +3,16 @@
     "name": "WOW",
     "aredl": "#309",
     "author": "TrusTa",
-    "creators": ["Disp",
-"Marwec",
-"Pennutoh",
-"TrusTa",
-"SlimJim",
-"Splash",
-"ChaSe",
-"Eggnog"],
+    "creators": ["Disp","Marwec","Pennutoh","TrusTa","SlimJim","Splash","ChaSe","Eggnog"],
     "verifier": "Noxiom",
     "verification": "https://youtu.be/jryHWNPI8mc",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "CraZDemonX",
+            "link": "https://youtu.be/UCwj_5GxMP4?si=mmDUDTGmtgihW4aA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
