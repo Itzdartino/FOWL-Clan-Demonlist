@@ -4,17 +4,11 @@
     "aredl": "#511",
     "author": "Kaito",
     "creators": [],
-    "verifier": "VTB",
-    "verification": "https://www.youtube.com/watch?v=pF_CyUJoPrI",
+    "verifier": "Camicorder",
+    "verification": "https://www.youtube.com/watch?v=UdekWofJgs4&list=PLuaBDTZMdoiDaKDuASj1LIVge69-mQk9h&index=35",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Camicorder",
-            "link": "https://www.youtube.com/watch?v=UdekWofJgs4&list=PLuaBDTZMdoiDaKDuASj1LIVge69-mQk9h&index=35",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "MrBeanScout",
             "link": "https://youtu.be/I4j8bTE76-g",
