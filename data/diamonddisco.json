@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "zStraw",
+            "link": "https://youtu.be/aEtj2leM0Us?si=myWU3hinRdbzKD4z",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
