@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "153426",
     "records": [
+        {
+            "user": "Astrala",
+            "link": "https://youtu.be/YbRQdhMO110?si=kII8dMzHAmVt4Vil",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
