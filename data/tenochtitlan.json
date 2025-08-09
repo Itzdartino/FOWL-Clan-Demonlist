@@ -2,11 +2,17 @@
     "id": 94464877,
     "name": "Tenochtitlan",
     "aredl": "#334",
-    "author": "Astrala",
+    "author": "Alpha rainbow",
     "creators": [],
-    "verifier": "Lucidium",
-    "verification": "https://youtu.be/XfbKxxcVasI",
+    "verifier": "Astrala",
+    "verification": "https://youtu.be/3EWh6Ef9pvk",
     "percentToQualify": 100,
     "records": [
+                {
+            "user": "CraZDemonX",
+            "link": "https://youtu.be/Zb7TRJjbegI?si=7Y6yfsLIkNzWVse0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

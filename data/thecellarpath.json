@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "wolfik",
+            "link": "https://youtu.be/RDmQbhz3Gn8?si=CYNF2SGIXDW0gWNs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
