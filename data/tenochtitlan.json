@@ -8,7 +8,13 @@
     "verification": "https://youtu.be/3EWh6Ef9pvk",
     "percentToQualify": 100,
     "records": [
-                {
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/XfbKxxcVasI?si=C3xgv3NOf5cgwsep",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "CraZDemonX",
             "link": "https://youtu.be/Zb7TRJjbegI?si=7Y6yfsLIkNzWVse0",
             "percent": 100,
