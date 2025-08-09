@@ -26,6 +26,12 @@
              "link": "https://www.youtube.com/watch?v=vMhQP4A2QTM",
              "percent": 100,
              "hz": 360
+        },
+        {
+            "user": "rain",
+            "link": "https://youtu.be/jBzos1I9XAc?si=HbQk4hyEnUkswLIK",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
