@@ -21,9 +21,15 @@
             "percent": 100,
             "hz": 120
         },
-                {
+        {
             "user": "Dornoc429",
             "link": "https://youtu.be/X_TMo4kwOvU?si=XNmKqLZl07dTwmW7",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "unknowntrashname",
+            "link": "https://youtu.be/kh9EF1kizB0?si=BoPkue6_iWEMXGj_",
             "percent": 100,
             "hz": 240
         }
