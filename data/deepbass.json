@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "AldoIsCool",
+            "link": "https://youtu.be/zt80Cf_7ijk?si=jyqCGsgYidSmAcQg",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
