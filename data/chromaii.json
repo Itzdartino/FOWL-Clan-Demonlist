@@ -4,8 +4,8 @@
     "aredl": "#452",
     "author": "Renn241",
     "creators": [],
-    "verifier": "BastianAK",
-    "verification": "https://youtu.be/57L2SynYfn8",
+    "verifier": "notaweeb57",
+    "verification": "https://youtu.be/tQejeFD88Jw?si=oecO_L3BB7hll89f",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
@@ -18,6 +18,12 @@
         {
             "user": "CraZDemonX",
             "link": "https://youtu.be/RPOFz3Da4_Y?si=eGqpANWRyH4tTqd8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BastianAK",
+            "link": "https://youtu.be/57L2SynYfn8",
             "percent": 100,
             "hz": 240
         }

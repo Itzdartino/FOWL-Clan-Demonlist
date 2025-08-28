@@ -8,5 +8,12 @@
     "verification": "https://youtu.be/45_xAgAVkWw",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "notaweeb57",
+            "link": "https://youtu.be/RTlKqNXhby8?si=VjiXmAac8oZa-LYw",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
