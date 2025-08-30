@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "wunjo",
+            "link": "https://youtu.be/dFbc_l4y2Ek?si=B1DncjXTlhiNK1AI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
