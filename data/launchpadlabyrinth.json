@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "13004",
     "records": [
+        {
+            "user": "BliYod",
+            "link": "https://youtu.be/D4gVTlR7B0g?si=NhbEnBWJyWW0L_Hg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

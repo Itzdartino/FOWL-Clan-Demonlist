@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "BliYod",
+            "link": "https://youtu.be/1CQelf1_6hM?si=JFDgN0AT3O_hnB5R",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
