@@ -4,16 +4,10 @@
     "aredl": "#89",
     "author": "Komp",
     "creators": ["viri", "nikroplays", "Komp"],
-    "verifier": "Aless50",
-    "verification": "https://www.youtube.com/watch?v=WeO8i-e8YiE",
+    "verifier": "JacoWaco",
+    "verification": "https://youtu.be/hxmzzROFpSc?si=ExIS-yCKkpWmxuXS",
     "percentToQualify": 100,
     "password": "735560",
     "records": [
-        {
-            "user": "JacoWaco",
-            "link": "https://youtu.be/hxmzzROFpSc?si=ExIS-yCKkpWmxuXS",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }
