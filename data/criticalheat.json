@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/EtpIHfhM97M?si=SinDiqELP9zk4Gu5",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
