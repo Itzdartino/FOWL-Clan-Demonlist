@@ -38,6 +38,12 @@
             "link": "https://youtu.be/5F7k0fHnK74?si=AFuyYjq-UA2wCgLc",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "usb",
+            "link": "https://youtu.be/B_2OK4Q1gl0?si=9OId-MwLHpt_yYLZ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

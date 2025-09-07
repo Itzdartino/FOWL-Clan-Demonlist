@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "usb",
+            "link": "https://youtu.be/TkMn6aET7N4?si=SHGdvlHaJZ71gj16",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
