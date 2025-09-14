@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "072619",
     "records": [
+        {
+            "user": "spcreat",
+            "link": "https://youtu.be/nHn-8tDmKsg?si=-67FJ0zf-9Hi61NP",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

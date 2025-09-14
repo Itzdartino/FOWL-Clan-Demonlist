@@ -4,8 +4,8 @@
     "aredl": "#119",
     "author": "Kugelblitz",
     "creators": ["Eyeris", "xNorth", "Riot", "Cyclic", "Vermillion", "Aurorus", "AZuLer4", "Salaxium", "Rek3dge", "Komp", "Aquatias"],
-    "verifier": "Lucidium",
-    "verification": "https://www.youtube.com/watch?v=gg8mdnC1BuU",
+    "verifier": "spcreat",
+    "verification": "https://youtu.be/RUZKUlCbMcc?si=PRDbYbYlsYZhYvTD",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
@@ -18,6 +18,12 @@
         {
             "user": "funnypoop1",
             "link": "https://youtu.be/yRbltcv0_lk?si=m4My3CvMmZpBuaSh",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lucidium",
+            "link": "https://www.youtube.com/watch?v=gg8mdnC1BuU",
             "percent": 100,
             "hz": 240
         }

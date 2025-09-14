@@ -62,6 +62,12 @@
             "link": "https://www.youtube.com/watch?v=XG51VmMXvVM",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "spcreat",
+            "link": "https://youtu.be/FHa2158WcKs?si=FxG1DJ4MSb0qYtI8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

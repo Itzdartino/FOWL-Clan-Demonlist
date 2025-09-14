@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "spcreat",
+            "link": "https://youtu.be/rVG_29YqZrk?si=ziUCMAy1fyOgqWXg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
