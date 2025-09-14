@@ -10,26 +10,26 @@
     "password": "999999",
     "records": [
         {
-            "user": "hibachidefect",
-            "link": "https://youtu.be/WNjTJwqh4-o?si=8_NVGN7-5sh7D99D",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "mironator",
-            "link": "https://youtu.be/0uAcePlGWLM?si=E6-8BI-TXEUeHAQR",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "geodom",
             "link": "https://youtu.be/5YKjNAq8cBU?si=8nQ8KRt2Miu2no6z",
             "percent": 100,
             "hz": 240
         },
         {
+            "user": "hibachidefect",
+            "link": "https://youtu.be/WNjTJwqh4-o?si=8_NVGN7-5sh7D99D",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "zStraw",
             "link": "https://youtu.be/-6DMrUbeWOg?si=n7KQNF90B090xUOn",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/0uAcePlGWLM?si=E6-8BI-TXEUeHAQR",
             "percent": 100,
             "hz": 240
         }

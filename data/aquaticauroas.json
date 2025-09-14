@@ -4,26 +4,26 @@
     "aredl": "#217",
     "author": "Endlevel",
     "creators": ["Endlevel", "LimeTime313", "El3ctr0"],
-    "verifier": "Runi",
-    "verification": "https://www.youtube.com/watch?v=S6yjGODkfu8",
+    "verifier": "CraZDemonX",
+    "verification": "https://youtu.be/VYMgsVVxShc?si=PjT9DABRxcGYi-Fn",
     "percentToQualify": "100",
     "password": "789123",
     "records": [
         {
-            "user": "CraZDemonX",
-            "link": "https://youtu.be/VYMgsVVxShc?si=PjT9DABRxcGYi-Fn",
+            "user": "spcreat",
+            "link": "https://youtu.be/hNAIlfIBmUw?si=O1nAHs17ZykGC70O",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Runi",
+            "link": "https://www.youtube.com/watch?v=S6yjGODkfu8",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "BastianAK",
             "link": "https://youtu.be/o46gzAwU2UE?si=bFisfcHh9QA7sQph",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "spcreat",
-            "link": "https://youtu.be/hNAIlfIBmUw?si=O1nAHs17ZykGC70O",
             "percent": 100,
             "hz": 240
         }

@@ -4,20 +4,32 @@
     "aredl": "#183",
     "author": "HangerLord",
     "creators": [],
-    "verifier": "yoyortfloor",
-    "verification": "https://www.youtube.com/watch?v=bUwmvpdyeTc",
+    "verifier": "geodom",
+    "verification": "https://youtu.be/4qt3Isgj21k?si=fyk5kGj1itYkup0l",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "JacoWaco",
-            "link": "https://www.youtube.com/watch?v=8BoUcrOfXGw",
+            "user": "notaweeb57",
+            "link": "https://youtu.be/P4vs4p3ynEs?si=iTbNX_SvTDC3swRq",
             "percent": 100,
-            "hz": 240
+            "hz": 480
         },
         {
             "user": "CraZDemonX",
             "link": "https://www.youtube.com/watch?v=lG8_DIcQ0Tg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "yoyortfloor",
+            "link": "https://www.youtube.com/watch?v=bUwmvpdyeTc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=8BoUcrOfXGw",
             "percent": 100,
             "hz": 240
         },
@@ -28,14 +40,8 @@
             "hz": 240
         },
         {
-            "user": "geodom",
-            "link": "https://youtu.be/4qt3Isgj21k?si=fyk5kGj1itYkup0l",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "notaweeb57",
-            "link": "https://youtu.be/P4vs4p3ynEs?si=iTbNX_SvTDC3swRq",
+            "user": "BastianAK",
+            "link": "https://youtu.be/uKmGSmblMn4?si=ikKxqp_Epq0IqBLg",
             "percent": 100,
             "hz": 480
         }

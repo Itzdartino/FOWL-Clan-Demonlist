@@ -4,20 +4,20 @@
     "aredl": "#172",
     "author": "Zeptrus",
     "creators": [],
-    "verifier": "Plazma",
-    "verification": "https://youtu.be/duiRfiqeKtQ?si=55NgT7-DyjZLSDo2",
+    "verifier": "Astrala",
+    "verification": "https://youtu.be/3KYaWF6nlBo?si=eOeV0gadOxCAkFdb",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=eOm-dUbqdT4",
+            "user": "Plazma",
+            "link": "https://youtu.be/duiRfiqeKtQ?si=55NgT7-DyjZLSDo2",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Astrala",
-            "link": "https://youtu.be/3KYaWF6nlBo?si=eOeV0gadOxCAkFdb",
+            "user": "CraZDemonX",
+            "link": "https://www.youtube.com/watch?v=eOm-dUbqdT4",
             "percent": 100,
             "hz": 240
         }

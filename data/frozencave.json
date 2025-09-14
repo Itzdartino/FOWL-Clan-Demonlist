@@ -4,11 +4,17 @@
     "aredl": "#206",
     "author": "TheParadoxTeam",
     "creators": [],
-    "verifier": "timmyblox",
-    "verification": "https://www.youtube.com/watch?v=V4iBtVwd3t0",
+    "verifier": "funnypoop1",
+    "verification": "https://youtu.be/Kc-a00BOsb4?si=NCxe5SOHbLt4-JHF",
     "percentToQualify": 100,
     "password": "060521",
     "records": [
+        {
+            "user": "timmyblox",
+            "link": "https://www.youtube.com/watch?v=V4iBtVwd3t0",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "ItsSkinn7Y",
             "link": "https://www.youtube.com/watch?v=moNoMeDA_3c",
@@ -18,12 +24,6 @@
         {
             "user": "Dornoc429",
             "link": "https://www.youtube.com/watch?v=tFFYZMDLxrE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "funnypoop1",
-            "link": "https://youtu.be/Kc-a00BOsb4?si=NCxe5SOHbLt4-JHF",
             "percent": 100,
             "hz": 240
         },

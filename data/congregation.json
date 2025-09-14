@@ -4,20 +4,20 @@
     "aredl": "#173",
     "author": "Presta",
     "creators": [],
-    "verifier": "Lucidium",
-    "verification": "https://www.youtube.com/watch?v=vIZZDnH4hOA",
+    "verifier": "Astrala",
+    "verification": "https://youtu.be/fAS_KbhhFNY?si=tiRorM8CdXAAE0lM",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "JacoWaco",
-            "link": "https://www.youtube.com/watch?v=Tkf74JJBaWw",
+            "user": "Lucidium",
+            "link": "https://www.youtube.com/watch?v=vIZZDnH4hOA",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Astrala",
-            "link": "https://youtu.be/fAS_KbhhFNY?si=tiRorM8CdXAAE0lM",
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=Tkf74JJBaWw",
             "percent": 100,
             "hz": 240
         }

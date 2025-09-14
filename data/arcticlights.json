@@ -4,8 +4,8 @@
     "aredl": "#204",
     "author": "Metalface221",
     "creators": ["iIiViRuZiIi", "Endlevel", "Hantein"],
-    "verifier": "Lucidium",
-    "verification": "https://www.youtube.com/watch?v=tB6-WhyjvKI",
+    "verifier": "CraZDemonX",
+    "verification": "https://www.youtube.com/watch?v=2oN6aUa990U",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
@@ -16,14 +16,20 @@
             "hz": 480
         },
         {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=2oN6aUa990U",
+            "user": "Lucidium",
+            "link": "https://www.youtube.com/watch?v=tB6-WhyjvKI",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "Wyse",
             "link": "https://youtu.be/Z-YaKyBs8Ig?si=Tb_GmtLIqiIZcxAN",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "spcreat",
+            "link": "https://youtu.be/HU__Yt2R3iQ?si=WJb5Tf27h55RvIa5",
             "percent": 100,
             "hz": 240
         },
@@ -42,12 +48,6 @@
         {
             "user": "TRIXICIDAL",
             "link": "https://youtu.be/1OLXHDnsyLE?si=LMt6LfVAi-OiRUGZ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "spcreat",
-            "link": "https://youtu.be/HU__Yt2R3iQ?si=WJb5Tf27h55RvIa5",
             "percent": 100,
             "hz": 240
         }

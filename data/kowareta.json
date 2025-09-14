@@ -4,20 +4,20 @@
     "aredl": "#197",
     "author": "Gablor",
     "creators": ["Gablor", "Endlevel", "Minaxa"],
-    "verifier": "funnypoop1",
-    "verification": "https://youtu.be/WP8diw-woyE?si=j7ONST6_hcs5-iGG",
+    "verifier": "CraZDemonX",
+    "verification": "https://www.youtube.com/watch?v=2y1o7KKS2Ks",
     "percentToQualify": 100,
     "password": "474969",
     "records": [
         {
-            "user": "Lucidium",
-            "link": "https://youtu.be/DC1TVxObyNs",
+            "user": "funnypoop1",
+            "link": "https://youtu.be/WP8diw-woyE?si=j7ONST6_hcs5-iGG",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=2y1o7KKS2Ks",
+            "user": "Lucidium",
+            "link": "https://youtu.be/DC1TVxObyNs",
             "percent": 100,
             "hz": 240
         },

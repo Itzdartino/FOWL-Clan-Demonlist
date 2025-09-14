@@ -10,6 +10,12 @@
     "password": "772002",
     "records": [
         {
+            "user": "rain",
+            "link": "https://youtu.be/4Wt6nmxi7d0?si=OkJx5h3x7CdVlxg0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "CraZDemonX",
             "link": "https://www.youtube.com/watch?v=CHYS2WXri5U",
             "percent": 100,
@@ -18,12 +24,6 @@
         {
             "user": "K3NNYY0",
             "link": "https://youtu.be/D--Leiy2rcM?si=O5pOvQAA64kjx-Sy",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "rain",
-            "link": "https://youtu.be/4Wt6nmxi7d0?si=OkJx5h3x7CdVlxg0",
             "percent": 100,
             "hz": 240
         }
