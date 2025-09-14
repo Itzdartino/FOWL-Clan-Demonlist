@@ -8,22 +8,22 @@
     "verification": "https://www.youtube.com/watch?v=0lGU6IoXBsI",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [       
+    "records": [    
         {
-        "user": "Plazma",
-        "link": "https://www.youtube.com/watch?v=5_mGzvqRJPc",
-        "percent": 100,
-        "hz": 240
-        },
+            "user": "geodom",
+            "link": "https://youtu.be/9pydEZH_t68?si=yoIj3K9u5o7czoxN",
+            "percent": 100,
+            "hz": 240
+        },   
         {
-            "user": "hibachidefect",
-            "link": "https://www.youtube.com/watch?v=FDVC0ErdRN0",
+            "user": "Plazma",
+            "link": "https://www.youtube.com/watch?v=5_mGzvqRJPc",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "geodom",
-            "link": "https://youtu.be/9pydEZH_t68?si=yoIj3K9u5o7czoxN",
+            "user": "hibachidefect",
+            "link": "https://www.youtube.com/watch?v=FDVC0ErdRN0",
             "percent": 100,
             "hz": 240
         }

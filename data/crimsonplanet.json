@@ -4,11 +4,17 @@
     "aredl": "#111",
     "author": "TrueOmega",
     "creators": ["Zimnior12", "Endlevel", "YakobNugget", "TrusTa", "MrPPS", "Dz3ser", "nikroplays", "Metalface221", "AimTheSame", "surreki", "TrueOmega", "Terron"],
-    "verifier": "funnypoop1",
-    "verification": "https://www.youtube.com/watch?v=O59Fv5J8OFE",
+    "verifier": "CraZDemonX",
+    "verification": "https://www.youtube.com/watch?v=edV77Hv2t2k",
     "percentToQualify": 100,
     "password": "123456",
-    "records": [        
+    "records": [
+        {
+            "user": "funnypoop1",
+            "link": "https://www.youtube.com/watch?v=O59Fv5J8OFE",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "ItsSkinn7Y",
             "link": "https://youtu.be/VypL81D_OcM?si=kNHq3yc6OV-tzpnH",
@@ -26,12 +32,6 @@
             "link": "https://www.youtube.com/watch?v=LJe0NgS963o",
             "percent": 100,
             "hz": 1500
-        },
-        {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=edV77Hv2t2k",
-            "percent": 100,
-            "hz": 240
         },
         {
             "user": "Dornoc429",
