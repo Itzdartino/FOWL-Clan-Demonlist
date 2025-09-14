@@ -4,26 +4,26 @@
     "aredl": "#126",
     "author": "NineDice",
     "creators": [],
-    "verifier": "yoyortfloor",
-    "verification": "https://www.youtube.com/watch?v=lMcZT_XTY8I",
+    "verifier": "CraZDemonX",
+    "verification": "https://www.youtube.com/watch?v=BqWD8ygX12I",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=BqWD8ygX12I",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "geodom",
-            "link": "https://youtu.be/9F3N65D-g8E?si=EqzI6EDNjwpk1XER",
+            "user": "yoyortfloor",
+            "link": "https://www.youtube.com/watch?v=lMcZT_XTY8I",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "rain",
             "link": "https://youtu.be/wY4YhAOqmwE?si=MIAh8JGg8mhErC4E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "geodom",
+            "link": "https://youtu.be/9F3N65D-g8E?si=EqzI6EDNjwpk1XER",
             "percent": 100,
             "hz": 240
         },

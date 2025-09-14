@@ -10,16 +10,16 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=kwOV2c1Zgj4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "yoyortfloor",
             "link": "https://youtu.be/Attss40DjuA?si=1grM2VctKabTJ-21",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "CraZDemonX",
+            "link": "https://www.youtube.com/watch?v=kwOV2c1Zgj4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -4,14 +4,14 @@
     "aredl": "#139",
     "author": "Knobbelboy",
     "creators": ["Gaero", "Platnuu", "Th04", "Rustam", "Enlex", "BIANOX", "Darwin", "knobbelboy", "Davphla", "Xaro", "Panman", "Tob24", "Ji", "ZephiroX"],
-    "verifier": "Noxiom",
-    "verification": "https://www.youtube.com/watch?v=ghRf6U8PKaA",
+    "verifier": "Astrala",
+    "verification": "https://youtu.be/fIoNdLdXCz0?si=dh7msQWUo6fIGqER",
     "percentToQualify": 100,
     "password": "153426",
     "records": [
         {
-            "user": "Astrala",
-            "link": "https://youtu.be/YbRQdhMO110?si=kII8dMzHAmVt4Vil",
+            "user": "Noxiom",
+            "link": "https://www.youtube.com/watch?v=ghRf6U8PKaA",
             "percent": 100,
             "hz": 240
         }

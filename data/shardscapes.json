@@ -16,16 +16,16 @@
             "hz": 240
         },
         {
-            "user": "Lucidium",
-            "link": "https://youtu.be/v_y6Ly7bFyo?si=NqyXsnFVVZEhroOn",
-            "percent": 100,
-            "hz": 480
-        },
-        {
             "user": "rogah",
             "link": "https://youtu.be/wqoEutmX3sg",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/v_y6Ly7bFyo?si=NqyXsnFVVZEhroOn",
+            "percent": 100,
+            "hz": 480
         },
         {
             "user": "BastianAK",

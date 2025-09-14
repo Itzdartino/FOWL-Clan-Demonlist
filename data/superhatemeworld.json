@@ -10,6 +10,12 @@
     "password": "Free to Copy",
     "records": [
         {
+            "user": "yoyortfloor",
+            "link": "https://youtu.be/p4OyL2Ngf_w?si=K1VM00FSkBUzhE5E",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "Lucidium",
             "link": "https://youtu.be/q2VfIUw4GSY",
             "percent": 100,
@@ -22,20 +28,14 @@
             "hz": 1440
         },
         {
-            "user": "Tweaking",
-            "link": "https://youtu.be/i0fSQ_Y7U_0?si=B5IeYAV5WaJNGe_g",
+            "user": "zStraw",
+            "link": "https://youtu.be/ab21k4BXmmg?si=GUgHBFQUkYdqnHDn",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "yoyortfloor",
-            "link": "https://youtu.be/p4OyL2Ngf_w?si=K1VM00FSkBUzhE5E",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "zStraw",
-            "link": "https://youtu.be/ab21k4BXmmg?si=GUgHBFQUkYdqnHDn",
+            "user": "Tweaking",
+            "link": "https://youtu.be/i0fSQ_Y7U_0?si=B5IeYAV5WaJNGe_g",
             "percent": 100,
             "hz": 240
         },

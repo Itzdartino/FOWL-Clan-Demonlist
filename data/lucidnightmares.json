@@ -4,14 +4,14 @@
     "aredl": "#124",
     "author": "CairoX",
     "creators": ["CairoX", "DonutTV"],
-    "verifier": "ItsSkinn7Y",
-    "verification": "https://www.youtube.com/watch?v=np7Em0lbUPQ",
+    "verifier": "geodom",
+    "verification": "https://youtu.be/nH2jlMIt9Pg?si=6xAm81djJBs43IDi",
     "percentToQualify": 100,
     "password": "341269",
     "records": [
         {
-            "user": "geodom",
-            "link": "https://youtu.be/nH2jlMIt9Pg?si=6xAm81djJBs43IDi",
+            "user": "ItsSkinn7Y",
+            "link": "https://www.youtube.com/watch?v=np7Em0lbUPQ",
             "percent": 100,
             "hz": 240
         },

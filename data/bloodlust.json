@@ -4,50 +4,14 @@
     "aredl": "#157",
     "author": "Knobbelboy",
     "creators": [],
-    "verifier": "Noxiom",
-    "verification": "https://www.youtube.com/watch?v=H6HQv1tpgFs",
+    "verifier": "Hqmy",
+    "verification": "https://youtu.be/gfKfLUr9H9g?si=yhi9BYKBAWfDS_eJ",
     "percentToQualify": 100,
     "password": "121296",
     "records": [
         {
-            "user": "Lucidium",
-            "link": "https://youtu.be/faTWciZp1Hg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "mironator",
-            "link": "https://www.youtube.com/watch?v=QbZnEpk2rZI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "JacoWaco",
-            "link": "https://www.youtube.com/watch?v=jV7sOx8LuJY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Camicorder",
-            "link": "https://www.youtube.com/watch?v=d6kr98kGHOU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=wPMqg2i3sqc",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "BastianAK",
-            "link": "https://youtu.be/XZSPo0lq7bM?si=OCfIUproGyA-EPhU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Hqmy",
-            "link": "https://youtu.be/gfKfLUr9H9g?si=yhi9BYKBAWfDS_eJ",
+            "user": "Noxiom",
+            "link": "https://www.youtube.com/watch?v=H6HQv1tpgFs",
             "percent": 100,
             "hz": 240
         },
@@ -58,8 +22,44 @@
             "hz": 240
         },
         {
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=jV7sOx8LuJY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "ByteLaw",
             "link": "https://youtu.be/t1ADyWioEnE?si=CKlaz4h-fYRJ2teh",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mironator",
+            "link": "https://www.youtube.com/watch?v=QbZnEpk2rZI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/faTWciZp1Hg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CraZDemonX",
+            "link": "https://www.youtube.com/watch?v=wPMqg2i3sqc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Camicorder",
+            "link": "https://www.youtube.com/watch?v=d6kr98kGHOU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BastianAK",
+            "link": "https://youtu.be/XZSPo0lq7bM?si=OCfIUproGyA-EPhU",
             "percent": 100,
             "hz": 240
         }
