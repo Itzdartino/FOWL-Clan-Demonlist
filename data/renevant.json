@@ -4,26 +4,20 @@
     "aredl": "#102",
     "author": "nikroplays",
     "creators": [],
-    "verifier": "JacoWaco",
-    "verification": "https://www.youtube.com/watch?v=5a7K3AL7PXo",
+    "verifier": "CraZDemonX",
+    "verification": "https://www.youtube.com/watch?v=3kpEW7O1sgM&pp=0gcJCYQJAYcqIYzv",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
+            "user": "JacoWaco",
+            "link": "https://www.youtube.com/watch?v=5a7K3AL7PXo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Camicorder",
             "link": "https://youtu.be/WlqzK9RCKZw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=3kpEW7O1sgM&pp=0gcJCYQJAYcqIYzv",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Dornoc429",
-            "link": "https://youtu.be/OJIVpnEyGok?si=UuxMfM5S1adufP92",
             "percent": 100,
             "hz": 240
         },
@@ -32,6 +26,12 @@
             "link": "https://youtu.be/PJB0GuC_se0?si=FzXu3QJLZUY7or_Q",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Dornoc429",
+            "link": "https://youtu.be/OJIVpnEyGok?si=UuxMfM5S1adufP92",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "spcreat",

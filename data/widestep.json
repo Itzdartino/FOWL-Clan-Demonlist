@@ -4,14 +4,14 @@
     "aredl": "#90",
     "author": "Demishio",
     "creators": [],
-    "verifier": "hibachidefect",
-    "verification": "https://www.youtube.com/watch?v=6cnqeTTfwWA",
+    "verifier": "geodom",
+    "verification": "https://youtu.be/23n9eG7WU4Q?si=DThhP7Ach7u1Qmfm",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "geodom",
-            "link": "https://youtu.be/23n9eG7WU4Q?si=DThhP7Ach7u1Qmfm",
+            "user": "hibachidefect",
+            "link": "https://www.youtube.com/watch?v=6cnqeTTfwWA",
             "percent": 100,
             "hz": 240
         }

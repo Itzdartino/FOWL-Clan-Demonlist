@@ -4,11 +4,17 @@
     "aredl": "#66",
     "author": "Nisha",
     "creators": [],
-    "verifier": "Hqmy",
-    "verification": "https://www.youtube.com/watch?v=im235JnHosc",
+    "verifier": "geodom",
+    "verification": "https://youtu.be/nqoiPN5XZEs?si=FANq79X1uv-LTcfD",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Hqmy",
+            "link": "https://www.youtube.com/watch?v=im235JnHosc",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "funnypoop1",
             "link": "https://youtu.be/BiPOrzdEjUU?si=JvcdP4B8O-ad9Rkp",
@@ -16,20 +22,14 @@
             "hz": 240
         },
         {
-            "user": "geodom",
-            "link": "https://youtu.be/nqoiPN5XZEs?si=FANq79X1uv-LTcfD",
+            "user": "ByteLaw",
+            "link": "https://youtu.be/CsaNQ4F6A_A?si=AmDbdzQbF5AWD-xy",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "nilscoefx3",
             "link": "https://youtu.be/J6YE-RQY8oM?si=eb6u-5wF5fQB2W5D",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "ByteLaw",
-            "link": "https://youtu.be/CsaNQ4F6A_A?si=AmDbdzQbF5AWD-xy",
             "percent": 100,
             "hz": 240
         }

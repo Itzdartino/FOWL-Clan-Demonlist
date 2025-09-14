@@ -10,12 +10,6 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Lucidium",
-            "link": "https://youtu.be/_9XQpbb1udk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "funnypoop1",
             "link": "https://youtu.be/sz1mYLFs5ig?si=VTffJuKuCiyi3QnJ",
             "percent": 100,
@@ -24,6 +18,12 @@
         {
             "user": "geodom",
             "link": "https://youtu.be/_DxsBwq1XyI?si=r_oHakuWq99oppoZ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lucidium",
+            "link": "https://youtu.be/_9XQpbb1udk",
             "percent": 100,
             "hz": 240
         },

@@ -4,20 +4,20 @@
     "aredl": "#62",
     "author": "dice88",
     "creators": ["silver", "benji8080", "eth", "Goob"],
-    "verifier": "funnypoop1",
-    "verification": "https://www.youtube.com/watch?v=wUyHOqim5n8",
+    "verifier": "CraZDemonX",
+    "verification": "https://www.youtube.com/watch?v=kPGzNycVN7s",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "xaern",
-            "link": "https://www.youtube.com/watch?v=QVyCyC8TmgI",
+            "user": "funnypoop1",
+            "link": "https://www.youtube.com/watch?v=wUyHOqim5n8",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "CraZDemonX",
-            "link": "https://www.youtube.com/watch?v=kPGzNycVN7s",
+            "user": "xaern",
+            "link": "https://www.youtube.com/watch?v=QVyCyC8TmgI",
             "percent": 100,
             "hz": 240
         },
@@ -28,14 +28,14 @@
             "hz": 240
         },
         {
-            "user": "wolfik",
-            "link": "https://youtu.be/AzviZ3sF8Wg?si=QOUBGbhOV68KZiW7",
+            "user": "nilscoefx3",
+            "link": "https://youtu.be/rfWWdOwQsCk?si=2TlKjLV4BGaUqKp4",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "nilscoefx3",
-            "link": "https://youtu.be/rfWWdOwQsCk?si=2TlKjLV4BGaUqKp4",
+            "user": "wolfik",
+            "link": "https://youtu.be/AzviZ3sF8Wg?si=QOUBGbhOV68KZiW7",
             "percent": 100,
             "hz": 240
         },
