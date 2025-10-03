@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "474969",
     "records": [
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/hkcN3UAUz_s?si=qiYCpw_Ddlu-bNAw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
