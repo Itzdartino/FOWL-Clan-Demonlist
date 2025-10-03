@@ -1,7 +1,7 @@
 {
     "id": 120255728,
     "name": "Sevvend Clubstep",
-    "aredl": "no spot (in pending)",
+    "aredl": "#31",
     "author": "Cherryteam",
     "creators": [],
     "verifier": "Hqmy",
@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "rain",
+            "link": "https://www.youtube.com/watch?v=nVitetQGVng",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
