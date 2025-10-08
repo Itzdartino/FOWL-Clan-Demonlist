@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "111111",
     "records": [
+        {
+            "user": "FlamingBird101",
+            "link": "https://youtu.be/O55YW28Ti4U?si=Yng2Xr72XiPDzpKo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
