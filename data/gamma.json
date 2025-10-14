@@ -3,22 +3,17 @@
     "name": "Gamma",
     "aredl": "#237",
     "author": "MindCap",
-    "creators": ["Pennutoh",
-"Lemons",
-"HequinoX",
-"Mactanow",
-"Ferox242",
-"Djoxy",
-"Metalface221",
-"iNighti",
-"MindCap",
-"Angryboy",
-"Lithifusion",
-"MichealH"],
-    "verifier": "Tweaking",
-    "verification": "https://youtu.be/I2kdCst4310?si=4lZLwvpGv2yYTXtD",
+    "creators": ["Pennutoh","Lemons","HequinoX","Mactanow","Ferox242","Djoxy","Metalface221","iNighti","MindCap","Angryboy","Lithifusion","MichealH"],
+    "verifier": "funnypoop1",
+    "verification": "https://youtu.be/SJW3EDaUhs0?si=TrGPch_oMab8orat",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Tweaking",
+            "link": "https://youtu.be/I2kdCst4310?si=4lZLwvpGv2yYTXtD",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
