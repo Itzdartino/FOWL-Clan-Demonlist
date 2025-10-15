@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "002224",
     "records": [
+        {
+            "user": "IcyTerra",
+            "link": "https://youtu.be/RcSX6E20VgE?si=rAuuzQ4WOyrOBKI4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
