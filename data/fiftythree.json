@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://youtu.be/4uFcpGsXNXM?si=CbGrvFm70VcxYLS6",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
