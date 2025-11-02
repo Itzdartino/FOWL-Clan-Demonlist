@@ -14,6 +14,12 @@
             "link": "https://www.youtube.com/watch?v=nVitetQGVng",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/dB8WHNSMirg?si=PzcGxfq_a23wWivm",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
