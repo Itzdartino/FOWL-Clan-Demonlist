@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "251326",
     "records": [
+        {
+            "user": "Dartino",
+            "link": "https://youtu.be/VLCXUlaeOzM?si=1mHSAL0j42AbachH",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
