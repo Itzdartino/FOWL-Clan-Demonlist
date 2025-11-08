@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "geodom",
+            "link": "https://youtu.be/kVZLs1vHFew?si=kGoPaHR8Y08ikgAS",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
