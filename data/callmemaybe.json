@@ -9,6 +9,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "unknowntrashname",
+            "link": "https://youtu.be/2UGUYEbAgpY?si=7mECeuk1Jdt_ZUkt",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 
 }
