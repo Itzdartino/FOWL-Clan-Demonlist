@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "hibachidefect",
+            "link": "https://youtu.be/jw5eVtGLKTs?si=R4z6CdOQfC3ne8n9",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
