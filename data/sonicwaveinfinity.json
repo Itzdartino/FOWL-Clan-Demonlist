@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "aSalv",
+            "link": "https://youtu.be/10l5nEN-CmM?si=iiKzcZoVoTIaA2-U",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
