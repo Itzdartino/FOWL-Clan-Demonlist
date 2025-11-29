@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Evandabeanz",
+            "link": "https://youtu.be/UagZkOSfCZc?si=2TxWsbmtlxTtp1sM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
