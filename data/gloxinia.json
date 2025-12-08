@@ -14,6 +14,12 @@
             "link": "https://youtu.be/PwIx4hxFb9A?si=ydnSgtiyV7xsAma8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "usb",
+            "link": "https://www.youtube.com/watch?v=cU7mU7eksVU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
