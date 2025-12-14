@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "vsce",
+            "link": "https://www.youtube.com/watch?v=3h2n-95pjQw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
