@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Luxury",
+            "link": "https://youtu.be/MTt8S20B03U?si=SaZ3asLkwDeXk1sl",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
