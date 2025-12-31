@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/C6KQ5D85R0I",
     "percentToQualify": "100",
     "password": "No Copy",
-    "records": []
+    "records": [
+        {
+            "user": "unknowntrashname",
+            "link": "https://youtu.be/q-gBcrye7NQ?si=FiIbCld18YDrGZ78",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }

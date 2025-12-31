@@ -68,6 +68,12 @@
             "link": "https://www.youtube.com/watch?v=bATYvtk69eE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "erantic",
+            "link": "https://youtu.be/K9cBfb4hnLc?si=aHljnO4CxE1XFek2",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
