@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Yoshikid",
+            "link": "https://youtu.be/pAbB7d2nVHU?si=FztrcBm0r6l-bkSI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
