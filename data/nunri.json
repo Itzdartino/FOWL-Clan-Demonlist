@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "111111",
     "records": [
+        {
+            "user": "Flaming",
+            "link": "https://youtu.be/BXt-OwofJ5U?si=20YHo5biBZtRHD9z",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
