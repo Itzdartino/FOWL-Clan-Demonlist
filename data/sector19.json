@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "088888",
     "records": [
+        {
+            "user": "Auzenthic",
+            "link": "https://youtu.be/hLDUYMAcj5o?si=dcV6FQ6PyKn2Y5Fy",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
