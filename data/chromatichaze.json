@@ -10,7 +10,7 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "JacoWaco",
+            "user": "Jaco",
             "link": "https://youtu.be/Lq4wVN-ZXqc?si=omA4sn5GW9jVQPL4",
             "percent": 100,
             "hz": 240
@@ -36,6 +36,12 @@
         {
             "user": "Sanctuary",
             "link": "https://youtu.be/J8vN6a9TSMs?si=AZM5crAR-TI5iE26",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dornoc429",
+            "link": "https://youtu.be/TlyilDlTD5Y?si=HAxeGM50ym8I-NmV",
             "percent": 100,
             "hz": 240
         }

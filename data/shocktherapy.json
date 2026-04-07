@@ -17,7 +17,13 @@
         },
         {
             "user": "usb",
-            "link": "hhttps://youtu.be/YKh383yTZCI?si=jZaFnB7gw7A2dwHg",
+            "link": "https://youtu.be/YKh383yTZCI?si=jZaFnB7gw7A2dwHg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dornoc429",
+            "link": "https://youtu.be/OfMm2IRADhk?si=9mgcybtjXwzAeOyn",
             "percent": 100,
             "hz": 240
         }

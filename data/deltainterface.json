@@ -22,7 +22,7 @@
             "hz": 120
         },
         {
-            "user": "JacoWaco",
+            "user": "Jaco",
             "link": "https://youtu.be/F7Q0DPPkvJc?si=Qwn97atTTozNmeT6",
             "percent": 100,
             "hz": 240
@@ -48,6 +48,12 @@
         {
             "user": "Flaming",
             "link": "https://youtu.be/2ACajVB0SJg?si=IgkpTbWWU3B2UObF",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dornoc429",
+            "link": "https://youtu.be/IR2cIWdVCYs?si=KzLPLvELhwHjrLxH",
             "percent": 100,
             "hz": 240
         }
