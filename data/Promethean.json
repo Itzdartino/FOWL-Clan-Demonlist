@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "789123",
     "records": [
+        {
+            "user": "Jaco",
+            "link": "https://youtu.be/9QrDhJEMgns?si=fktLjtYMyN9ot-Nl",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
