@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "rain",
+            "link": "https://youtu.be/MnQoMgv7-wU?si=wX6gMJqHl9lBHuln",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
