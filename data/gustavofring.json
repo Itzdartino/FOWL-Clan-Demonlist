@@ -4,16 +4,10 @@
     "aredl": "#189",
     "author": "Renn241",
     "creators": ["Renn241", "Kutsu"],
-    "verifier": "CraZDemonX",
-    "verification": "https://www.youtube.com/watch?v=UGLGY6vdMd0",
+    "verifier": "ByteLaw",
+    "verification": "https://youtu.be/LdyFYamgTko?si=IA-Ms7TqQzzsnm0B",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "ByteLaw",
-            "link": "https://youtu.be/LdyFYamgTko?si=IA-Ms7TqQzzsnm0B",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

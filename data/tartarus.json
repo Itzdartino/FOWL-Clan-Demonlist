@@ -4,17 +4,11 @@
     "aredl": "#56",
     "author": "Dolphy",
     "creators": ["Hinds", "Endlevel", "Riot", "Cyclic", "Vermillion", "Aurorus", "AZuLer4", "Salaxium", "Rek3dge", "Komp", "Aquatias"],
-    "verifier": "CraZDemonX",
-    "verification": "https://www.youtube.com/watch?v=ga9GxcRJYG4",
+    "verifier": "Glow",
+    "verification": "https://www.youtube.com/watch?v=l3icK5ullq0",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Glow",
-            "link": "https://www.youtube.com/watch?v=l3icK5ullq0",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "Lfz",
             "link": "https://youtu.be/Q0vvHLMErsk?si=n5__PkpfZQ9z861-",
@@ -48,6 +42,12 @@
         {
             "user": "Auzenthic",
             "link": "https://youtu.be/u0KaUYoxoCI?si=Wg5nZSoWZzxRwvW6",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "gyrocynica;l",
+            "link": "https://www.youtube.com/watch?v=8Cce91yo1rU",
             "percent": 100,
             "hz": 240
         }
