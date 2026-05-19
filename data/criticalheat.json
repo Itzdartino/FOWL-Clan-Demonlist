@@ -4,16 +4,10 @@
     "aredl": "#75",
     "author": "Zeniux",
     "creators": ["ZeusGD", "Zeniux"],
-    "verifier": "ByteLaw",
-    "verification": "https://youtu.be/EtpIHfhM97M?si=SinDiqELP9zk4Gu5",
+    "verifier": "geodom",
+    "verification": "https://youtu.be/kVZLs1vHFew?si=kGoPaHR8Y08ikgAS",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "geodom",
-            "link": "https://youtu.be/kVZLs1vHFew?si=kGoPaHR8Y08ikgAS",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
