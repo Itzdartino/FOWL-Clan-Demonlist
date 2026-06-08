@@ -4,16 +4,10 @@
     "aredl": "#79",
     "author": "Npesta",
     "creators": ["Bianox"],
-    "verifier": "Aless50",
-    "verification": "https://www.youtube.com/watch?v=IadI-4BxAF0",
+    "verifier": "Evandabeanz",
+    "verification": "https://youtu.be/lRQh4keHu_4?si=3PCCWfUr_x0rhmcD",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Evandabeanz",
-            "link": "https://youtu.be/lRQh4keHu_4?si=3PCCWfUr_x0rhmcD",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }
