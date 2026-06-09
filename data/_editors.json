@@ -1,18 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "Dartino",
-        "link": "https://www.youtube.com/@dartlolz528"
-    },
-    {
-        "role": "owner",
         "name": "rogah",
         "link": "https://www.youtube.com/channel/UCXWYu2Ed2GGBaiAAovSGXRQ"
     },
     {
         "role": "admin",
-        "name": "TriggeredGMD",
-        "link": "https://www.youtube.com/@TriggeredGMD"
+        "name": "Jaco",
+        "link": "https://www.youtube.com/@JacoWacoTB"
     },
     {
         "role": "admin",
@@ -21,13 +16,8 @@
     },
     {
         "role": "admin",
-        "name": "Padahk",
-        "link": "https://www.youtube.com/@Padahk"
-    },
-    {
-        "role": "admin",
-        "name": "JaydenvdH",
-        "link": "https://www.youtube.com/@JaydenvdH"
+        "name": "Glow",
+        "link": "https://www.youtube.com/@Glowgmd"
     },
     {
         "role": "dev",
