@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Livyoshi",
+            "link": "https://youtu.be/xu3ENvsyato?si=xGts4wJscPLaLgBa",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

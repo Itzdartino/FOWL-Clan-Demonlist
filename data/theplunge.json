@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "gyrocynica;l",
+            "link": "https://youtu.be/nzjbzJMtAH8?si=l1v4ZxOYx0iO6pEU",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
