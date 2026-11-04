@@ -4,16 +4,10 @@
     "aredl": "#360",
     "author": "DolaLXM",
     "creators": ["PBreakerGD", "shodai", "Roselyne", "TriplashGD", "Arachnid", "Adrone", "G4lvatron"],
-    "verifier": "rain",
-    "verification": "https://youtu.be/KGBaYa5TwcY",
+    "verifier": "gyrocynica;l",
+    "verification": "https://youtu.be/nzjbzJMtAH8?si=l1v4ZxOYx0iO6pEU",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "gyrocynica;l",
-            "link": "https://youtu.be/nzjbzJMtAH8?si=l1v4ZxOYx0iO6pEU",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }

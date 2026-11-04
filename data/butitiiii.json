@@ -4,7 +4,7 @@
     "aredl": "#433",
     "author": "JonathanGD",
     "creators": [],
-    "verifier": "Yoshikid",
+    "verifier": "Livyoshi",
     "verification": "https://www.youtube.com/watch?v=mL3rSuTdGuE",
     "percentToQualify": 100,
     "password": "Free to Copy",
@@ -20,12 +20,6 @@
             "link": "https://youtu.be/DoLUt05mpyI?si=ghQcq2mkb5ez84MC",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "RinsibleDuke",
-            "link": "https://youtu.be/rdgIY4Yvd7c?si=sh-3gt4OgLVrfGyT",
-            "percent": 100,
-            "hz": 480
         }
     ]
 }

@@ -4,16 +4,10 @@
     "aredl": "#360",
     "author": "Bamvie",
     "creators": [],
-    "verifier": "rain",
-    "verification": "https://youtu.be/zkaAkoOg6xU",
+    "verifier": "geodom",
+    "verification": "https://youtu.be/6SEYgjJ46DA?si=wYYFLnxrQ-iPSUbY",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "geodom",
-            "link": "https://youtu.be/6SEYgjJ46DA?si=wYYFLnxrQ-iPSUbY",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }

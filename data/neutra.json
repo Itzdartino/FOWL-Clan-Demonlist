@@ -4,20 +4,14 @@
     "aredl": "#88",
     "author": "Jenkins",
     "creators": ["Jenkins","Marwec","ILRELL"],
-    "verifier": "Lfz",
-    "verification": "https://youtu.be/BqqQo0ZmjbI?si=9exhJvGp_xCeTIaC",
+    "verifier": "Verminity",
+    "verification": "https://youtu.be/r1vIpfukUJw?si=iuSUb2UDWv-opZw9",
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
         {
             "user": "rain",
             "link": "https://www.youtube.com/watch?v=fqtkCJhgkyw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Verminity",
-            "link": "https://youtu.be/r1vIpfukUJw?si=iuSUb2UDWv-opZw9",
             "percent": 100,
             "hz": 240
         },
