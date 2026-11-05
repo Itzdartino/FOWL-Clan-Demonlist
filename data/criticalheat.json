@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Jaco",
+            "link": "https://youtu.be/Hx8tzANokX4?si=pjJEu8fnJjjikn2F",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

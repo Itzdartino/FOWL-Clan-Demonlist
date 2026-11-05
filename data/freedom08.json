@@ -9,5 +9,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "mironator",
+            "link": "https://youtu.be/oyeQWN0bl5I?si=4KB8copChllK7cyW",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
